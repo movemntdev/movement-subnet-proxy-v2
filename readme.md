@@ -1,6 +1,14 @@
 
-**Replace the URL provided by movement subnet in const.js**
-You can found at [subnet](https://github.com/movemntdev/movement-subnet-v2)
+**Replace the URL provided by movement subnet in const.js,You can found at [subnet](https://github.com/movemntdev/movement-subnet-v2)**
+
+
+### Start server
+
+```bash
+ node app.js
+```
+
+### Interact with subnet
 
 ```javascript
 const aptos = require("aptos");
